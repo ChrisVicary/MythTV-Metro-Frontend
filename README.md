@@ -1,4 +1,4 @@
-MythTV-WPF-Frontend
+MythTV-Metro-Frontend
 ===================
 
-A frontend for MythTV Services API using C# and WPF
+A metro style Windows 8 frontend for MythTV Services API using C# and XAML.
